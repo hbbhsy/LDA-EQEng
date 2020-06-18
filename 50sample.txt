@@ -1,0 +1,599 @@
+Yingwu Zhou, Xuan Chen, Xiaohan Wang, Lili Sui, Xiaoxu Huang, Menghuan Guo, Biao Hu,
+Seismic performance of large rupture strain FRP retrofitted RC columns with corroded steel reinforcement,
+Engineering Structures,
+Volume 216,
+2020,
+110744,
+ISSN 0141-0296,
+https://doi.org/10.1016/j.engstruct.2020.110744.
+(http://www.sciencedirect.com/science/article/pii/S0141029619355610)
+Abstract: Retrofitting reinforced concrete (RC) column by conventional fibre reinforced polymers (FRPs) can enhance the seismic performance to a limited level due to the small straining capacity and brittle failure of FRP. Existing findings have substantiated that the polyethylene terephthalate (PET) FRP with large rupture strain (LRS) (e.g., greater than 5%) are regarded as preferable to conventional FRP concerning enhancing the ductility of retrofitted RC columns. This paper experimentally evaluates the enhancement in seismic performance of corroded RC columns contributed by LRS-FRP strengthening based on testing of ten RC columns. The main test variables are the corrosion ratio of longitudinal reinforcement, axial force ratio, thickness of LRS-FRP and boundary condition. The seismic performance is systematically evaluated, including crack pattern, failure mode, lateral load resistance, hysteretic response, energy-dissipation capacity, stiffness degradation, ductility and strain responses of wrapped LRS-FRP. The results indicate that corrosion results in significant performance degradation in member strength and ductility. Notably, the failure mode of un-retrofitted corroded columns changes from typical flexural failure to shear-compression failure when the axial load ratio increases from 0.2 to 0.4, which case is prevented by LRS-FRP strengthening so that the retrofitted corroded column eventually experiences ductile flexural failure under larger axial load ratio. Moreover, LRS-FRP retrofitting remarkably improves the ductility and energy dissipation capacity of corroded RC columns compared with the un-retrofitted counterparts.
+Keywords: Corrosion; RC column; LRS-FRP; Axial load ratio; Seismic behavior
+
+Chongjie Kang, Sebastian Schneider, Marc Wenner, Steffen Marx,
+Experimental investigation on rail fatigue resistance of track/bridge interaction,
+Engineering Structures,
+Volume 216,
+2020,
+110747,
+ISSN 0141-0296,
+https://doi.org/10.1016/j.engstruct.2020.110747.
+(http://www.sciencedirect.com/science/article/pii/S0141029619330354)
+Abstract: This paper presents an experimental study on the flexural fatigue behavior of the typical high-speed rail profile 60E2 (UIC60) for five million load cycles. A resonant machine was applied to achieve a test program of different load levels with high loading frequency. This investigation focuses on the rail fatigue resistance under multiple minimum stress levels and different corrosion conditions. In comparison with historic investigations of rails for two million load cycles, this new rail profile shows better fatigue behavior even for 2.5 times more load cycles. In the end, a new Smith–diagram for five million load cycles is proposed.
+Keywords: Flexural fatigue behavior; 60E2 rail profile; Rail fatigue failure; Corrosion; Resonant; Track/Bridge interaction
+
+Biao Liu, Guo-Liang Bai, Jin-Quan Zhao, Jia-Rui Li,
+Experimental and numerical study performed on seismic behavior of irregular external SRC joints in the main plant of CAP1400 NPP,
+Engineering Structures,
+Volume 217,
+2020,
+110821,
+ISSN 0141-0296,
+https://doi.org/10.1016/j.engstruct.2020.110821.
+(http://www.sciencedirect.com/science/article/pii/S0141029620305290)
+Abstract: The main plant of steel reinforced concrete (SRC) structure is proposed for CAP1400 nuclear power plant (NPP) in high seismic zone, which not only has better mechanical properties than reinforced concrete structure plant, but also has lower maintenance cost than steel structure plant. The irregular SRC joints are inevitably appeared in the main plant due to the limitations of power generation technology and equipment. In this paper, quasi-static cyclic tests were carried out on three 1:4 reduced scale irregular external SRC joints to discuss the seismic performance of the joints in the NPP, mainly including the damage pattern, hysteretic behavior, load carrying capacity, stiffness degradation and ductility. In addition, the detailed 3D finite element (FE) models were established, in which the bond-slip behavior between the shaped steel and concrete was considered by using the developed software to add a huge number of non-linear spring elements, and the FE models were verified by the test results. Then, the parametric study on seismic performance of irregular external SRC joint was carried out, and the influence of each parameter on the seismic performance of the irregular external SRC joint was analyzed. Finally, the effective and economical reinforcement measures were proposed, and verified by the FE method.
+Keywords: Main plant of nuclear power plant; Irregular external SRC joint; Quasi-static cyclic tests; Finite element model; Parametric study; Reinforcement measure
+
+Guan Lin, J.J. Zeng, J.G. Teng, L.J. Li,
+Behavior of large-scale FRP-confined rectangular RC columns under eccentric compression,
+Engineering Structures,
+Volume 216,
+2020,
+110759,
+ISSN 0141-0296,
+https://doi.org/10.1016/j.engstruct.2020.110759.
+(http://www.sciencedirect.com/science/article/pii/S0141029619339720)
+Abstract: Fiber-reinforced polymer (FRP) composites have become widely accepted in the strengthening or seismic retrofitting of reinforced concrete (RC) columns in practice. FRP-confined rectangular concrete columns under concentric axial compression have been extensively studied, leading to many stress-strain models (i.e., concentric-loading stress-strain models). Although RC columns in practical structures are commonly subjected to combined axial compression and bending (i.e., eccentric compression), existing research on eccentrically-loaded FRP-confined rectangular RC columns has been much more limited. More specifically, the limited research available has generally been concerned with small-scale RC columns, and the applicability of existing concentric-loading stress-strain models for FRP-confined concrete in the analysis of large-scale eccentrically-loaded rectangular RC columns has not been properly clarified. This paper presents the results of an experimental study including eight large-scale FRP-confined rectangular RC columns tested under eccentric compression. The following key test variables were carefully examined in the experimental program: the load eccentricity, the direction of bending, and the FRP jacket thickness. A theoretical column model is then presented for predicting the responses of the test columns. It is shown that the direct use of a concentric-loading stress-strain model for FRP-confined concrete in the column model leads to significant errors in predicting the ultimate deformation of the test columns.
+Keywords: Fiber-reinforced polymer (FRP); Confinement; Rectangular column; Reinforced concrete (RC); Large-scale column; Eccentric loading
+
+Zheng-Bo Pi, Meni Su, Yuan-Yuan Peng, Yu-Hang Wang, Wei Luo, Yong-Sen Lan,
+Seismic behaviour of concrete-filled steel tubular columns with internal H-section steel under pure torsion and compression–torsion loads,
+Engineering Structures,
+Volume 216,
+2020,
+110761,
+ISSN 0141-0296,
+https://doi.org/10.1016/j.engstruct.2020.110761.
+(http://www.sciencedirect.com/science/article/pii/S0141029619337940)
+Abstract: Concrete-filled steel tube (CFST) columns have been widely used in the construction industry because of their excellent compression capacity and torsion resistance. Regarding traditional CFST columns, the H-CFST column with an additional H-section steel member embedded in the core concrete provides improved fire and compression resistance. In this study, the seismic performance of nine H-CFST columns under cyclic torsional and compression–cyclic torsional loads was experimentally analysed. In the experiments, the failure mode, torque versus torsional angle hysteresis, torque versus torsional angle skeleton, torsional stiffness degradation, and energy dissipation capacity were determined. The hysteretic curves of the H-CFST columns under torsion were relatively plump in shape and exhibited no ‘pinching’ phenomenon, and the torsional stiffness of the H-CFST columns under unloading and reverse loading was approximately equal to the initial torsional stiffness. In addition, the applied compression had remarkable effects on the torsional capacity, torsional ductility, torsional stiffness, and hysteretic loop energy dissipation of the H-CFST columns. The shear capacities of the steel and concrete under normal stress or combined normal and shear stress were determined based on the latest theories and test results. Moreover, design method for the determination of the torsional capacity of H-CFST columns under compressive torsion is proposed based on the test results, and the theoretical contribution ratio of the H-section steel, steel tube, and concrete in the H-CFST columns to the torsional capacity was determined.
+Keywords: Compressive torsional capacity; Concrete-filled steel tube columns; Energy dissipation capacity; Torsional behaviour; Torsional stiffness degradation; Shear capacity of steel
+
+Pouria Ayough, N.H. Ramli Sulong, Zainah Ibrahim, Po-Chien Hsiao,
+Nonlinear analysis of square concrete-filled double-skin steel tubular columns under axial compression,
+Engineering Structures,
+Volume 216,
+2020,
+110678,
+ISSN 0141-0296,
+https://doi.org/10.1016/j.engstruct.2020.110678.
+(http://www.sciencedirect.com/science/article/pii/S0141029619352101)
+Abstract: This paper studies the characteristics of square concrete-filled double-skin steel tubular (CFDST) short columns with inner circular steel tube by performing a series of nonlinear finite element (FE) analysis. The precise definitions of the behavior of the material are the initial requirement of numerical modeling. The existing models for predicting the behavior of the concrete core confined by the circular tube are not suitable since the mechanism of the concrete confinement in square composite columns is different from that of the circular ones. Also, ignoring the confinement effects on improving the concrete strength may lead to conservative results. In this paper, the confinement effects provided by the steel tubes on the concrete core in square CFDST columns are taken into account in the concrete constitutive model. The verified FE model is utilized to investigate the effects of important parameters on the ultimate axial strength, energy absorption capacity, ductility, and interaction performance of CFDST columns. A new design equation is suggested based on stress distribution over the concrete cross-section. It is shown that material properties and dimensions of composite columns can highly affect their performance. Also, the thickness of the inner tube must be controlled to prevent its premature failure. Validation of the design equation shows that it leads to the satisfactory predictions of the ultimate strengths of square CFDST short columns under axial loading.
+Keywords: Concrete-filled steel tubes; Axial compression; Nonlinear analysis; Finite element; Parametric analysis
+
+Dabo Xin, Ming Sun, Chaoying Zou,
+Simulation and prediction of seismic behaviors for RC columns under freeze–thaw cycles,
+Engineering Structures,
+Volume 216,
+2020,
+110787,
+ISSN 0141-0296,
+https://doi.org/10.1016/j.engstruct.2020.110787.
+(http://www.sciencedirect.com/science/article/pii/S0141029619353234)
+Abstract: Freeze-thaw cycle (FTC) is a severe durability issue that can seriously degrade the seismic behaviors of concrete structures, especially in cold regions. In this paper, a finite element (FE) model is proposed to evaluate the seismic behaviors of reinforced concrete (RC) columns under FTC. Based on the results of tests on eight column specimens under cyclic load and FTC, a series of calculation studies on the seismic behaviors of specimens under FTC are investigated. And calculation results show a good fit with the corresponding test results. Furthermore, according to the verified FE model, 36 numerical cases are simulated to investigate the effects of parameters (including axial compression ratio and shear span-to-depth ratio) on the seismic behaviors (including ultimate bearing capacity, yield load, and ultimate displacement) of specimens under FTC. Calculation results indicate that the axial compression ratio and shear span-to-depth ratio have a great impact on the seismic behaviors of columns under FTC. Finally, a theoretical model, considering the effects of axial compression ratio and shear span-to-depth ratio, is established to predict the ultimate bearing capacity, yield load, and ultimate displacement of specimens under FTC. The accuracy of the prediction results is verified by comparing with the corresponding test results.
+Keywords: Simulation method; Prediction method; Freeze-thaw cycles (FTC); Seismic behaviors; Reinforced concrete (RC) columns
+
+T.A. Bui, M. Oudjene, P. Lardeur, M. Khelifa, Y. Rogaume,
+Towards experimental and numerical assessment of the vibrational serviceability comfort of adhesive free laminated timber beams and CLT panels assembled using compressed wood dowels,
+Engineering Structures,
+Volume 216,
+2020,
+110586,
+ISSN 0141-0296,
+https://doi.org/10.1016/j.engstruct.2020.110586.
+(http://www.sciencedirect.com/science/article/pii/S0141029619315792)
+Abstract: This paper presents experimental and numerical investigations on the vibrational serviceability performance of novel adhesive free engineered wood products (AFEWPs), namely adhesive free laminated timber beams (AFLB) and adhesive free cross-laminated timber panels (AFCLT), assembled through thermo-mechanically compressed wood dowels (CWD). The laminations composing the AFEWPs are made of oak timber while the CWD are made of spruce. The experimental modal analyses were carried out under free-free conditions using a hammer impact. Natural frequencies, mode shapes, and damping ratios were assessed experimentally. In addition, similar glued beams made of oak timber (conventional glulam) were manufactured and tested for comparison purpose. A predictive 3D FE model was developed and validated by comparison against experimental data and then used to predict the vibrational behavior of a realistic flooring system made with AFCLT panel and measuring 4.5 m × 5.5 m. The predicted FE results were discussed with regard to the Eurocode 5 vibrational serviceability design requirements showing acceptable vibrational performance. The variability level of the results for the AFEWPs is also studied and discussed.
+Keywords: Timber construction; Vibration serviceability; Wood dowels; Wood densification; Damping; Modal analysis; Hardwood; Frequency; Mode shape; CLT
+
+Jia-Qi Yang, Peng Feng,
+Analysis-oriented models for FRP-confined concrete: 3D interpretation and general methodology,
+Engineering Structures,
+Volume 216,
+2020,
+110749,
+ISSN 0141-0296,
+https://doi.org/10.1016/j.engstruct.2020.110749.
+(http://www.sciencedirect.com/science/article/pii/S0141029620301164)
+Abstract: An important application of fibre-reinforced polymer (FRP) composites in structural engineering is to confine concrete. In contrast to actively confined concrete, the stress-strain curve of FRP-confined concrete can have a second ascending branch when sufficient confinement is applied. Numerous analytical models have been proposed to predict the axial stress–strain behaviour of FRP-confined concrete. These models can be classified into two categories: (a) analysis-oriented models and (b) design-oriented models. In this paper, a 3-dimensional geometrical approach is proposed to interpret the general theory of analysis-oriented models based on three general equations. This approach provides an intuitive perspective to understand the analysis-oriented models and the mechanism of FRP-confined concrete. With this approach, a systematic methodology for calibrating analysis-oriented models is demonstrated, and the parameters in design-oriented models are justified. This methodology can also be applied to build analysis-oriented models for other concrete-type materials.
+Keywords: Confined concrete; Fibre-reinforced polymer; Analysis-oriented model; Stress–strain behaviour
+
+Mohammed Sirage Ibrahim, Esayas Gebreyouhannes, Abdulkerim Muhdin, Abrham Gebre,
+Effect of concrete cover on the pure torsional behavior of reinforced concrete beams,
+Engineering Structures,
+Volume 216,
+2020,
+110790,
+ISSN 0141-0296,
+https://doi.org/10.1016/j.engstruct.2020.110790.
+(http://www.sciencedirect.com/science/article/pii/S0141029619336491)
+Abstract: Torsional behavior of RC members is dependent on various factors including the amount of rebar, concrete strength, member cross-section, depth to width ratio, and concrete cover. Although there is an enormous amount of knowledge on the effect of the above-mentioned factors on torsional behavior, studies pertaining to the effect of concrete cover is scarce. In the current study, a total of nine RC beams with clear concrete cover thickness ranging from 16 mm to 46 mm were experimentally investigated for pure torsion. Coupled with concrete cover depth, the effect of transverse reinforcement spacing and compressive strength of concrete were systematically investigated. Moreover, the experimental results were used to examine the prediction of commonly used codes including ACI, CSA, and Eurocode. To have a holistic view, the reliability of existing prediction graphical methods developed based on the well-known and accepted theories of MCFT and STM as well as recently developed empirical equations were also examined. The experimental results indicated the presence of relatively larger cover greatly affects both the ultimate capacity and overall torsional behavior of RC members. When compared with the experiments, ACI provides a highly conservative estimate, particularly with the increase of the cover depth. On the contrary, CSA and Eurocode provide unsafe predictions. Although the prediction is on the unsafe side, CSA and Eurocode gave a consistent prediction with smaller scatter for the different concrete depths. The prediction of the models based on the graphical methods and the empirical equation were also found to be unsafe with the effect becoming highly pronounced for cases with relatively large concrete cover. Overall, the experimental investigation showed the thickness of cover concrete has a significant effect on the pre and post-peak torsional behavior of RC members.
+Keywords: Torsion; Concrete cover; Cover spalling
+
+Yunchao Tang, Shu Fang, Jieming Chen, Liangyi Ma, Lijuan Li, Xiangguo Wu,
+Axial compression behavior of recycled-aggregate-concrete-filled GFRP–steel composite tube columns,
+Engineering Structures,
+Volume 216,
+2020,
+110676,
+ISSN 0141-0296,
+https://doi.org/10.1016/j.engstruct.2020.110676.
+(http://www.sciencedirect.com/science/article/pii/S0141029620303667)
+Abstract: Aiming to expand the structural applications of recycled aggregate concrete (RAC), the innovative approach of using the hybrid form of RAC-filled glass-fiber-reinforced polymer (GFRP)–steel composite tube columns (RACFCTs) is particularly striking because of their optimal combining of fiber-reinforced polymer (FRP), RAC and steel. The existing research relevant to RACFCTs is limited and is mainly concerned with seismic performance. This paper presents the first-ever axial compression test on RACFCTs having three different slenderness ratios ranging from 20 to 40; the effect of the recycled coarse aggregate (RA) replacement ratio is also examined. The main performance aspects evaluated in this study were the failure mode, ultimate condition, axial load–lateral deflection curves, load–strain curves, and dilation behavior. The test results clearly show the benefit of the GFRP–steel composite tube on the compression behavior of the columns. The test results also demonstrate that the RACFCTs with a high RA replacement ratio and a high slenderness ratio had more ductile behavior. Finally, a design equation for predicting the maximum capacity of RACFCTs was derived, and its applicability was examined. The proposed formula produced a close estimate of the test results.
+Keywords: Recycled aggregate concrete; GFRP–steel composite tube; Axial compression; Slenderness ratio; Confinement
+
+Xinghua Li, Gang Wu, Yahya C. Kurama, Haoran Cui,
+Experimental comparisons of repairable precast concrete shear walls with a monolithic cast-in-place wall,
+Engineering Structures,
+Volume 216,
+2020,
+110671,
+ISSN 0141-0296,
+https://doi.org/10.1016/j.engstruct.2020.110671.
+(http://www.sciencedirect.com/science/article/pii/S0141029619344724)
+Abstract: Previous research has shown that nonemulative (jointed) precast walls with unbonded posttensioning can achieve superior seismic performance (e.g., self-centering) compared to conventional monolithic cast-in-place reinforced concrete walls. However, the progression of significant damage and failure in nonemulative precast walls is through the yielding of ductile steel reinforcing bars (referred to as energy dissipating bars) followed by the crushing of concrete at the wall toes, greatly limiting the ability to repair these walls after a major earthquake. In this paper, a nonemulative precast wall system with replaceable, external buckling restrained plates (BRPs) for energy dissipation, and steel jackets for confinement of the concrete at the wall base is investigated through reversed-cyclic lateral loading tests. Four precast wall specimens with varying cross-sectional area of the BRPs and number of horizontal joints were tested and compared against a monolithic cast-in-place reinforced concrete wall. The precast walls exhibited no significant unrepairable tensile or compressive damage with increasinglateral strength up to 4% drift, showing advantages over the cast-in-place wall and non-jacketed precast walls in previous research. With out-of-plane buckling restrained, the BRPs yielded in tension and compression, providing the precast walls with desirable energy dissipation. To highlight the reparability of the precast wall system, one of the specimens was repaired after being subjected to a complete cyclic loading history up to 4% drift. The repair was done by replacing the damaged BRPs, after which the wall was re-tested. The repaired wall restored most of its original energy dissipation, lateral stiffness, and strength, with limited cumulativedamage in the wall. In general, the proposed precast wall system with buckling restrained plates is desirable for seismic regions, offering excellent reparability and seismic resilience.
+Keywords: Repairable; Bolt-connected; Buckling restrained plates; Nonemulative structural walls; Precast; Cyclic loading test
+
+Junlin Li, Wei Wang, Bing Qu,
+Seismic design of low-rise steel building frames with self-centering panels and steel strip braces,
+Engineering Structures,
+Volume 216,
+2020,
+110730,
+ISSN 0141-0296,
+https://doi.org/10.1016/j.engstruct.2020.110730.
+(http://www.sciencedirect.com/science/article/pii/S0141029619333632)
+Abstract: This paper develops a practical seismic design approach for an emerging lateral force resisting system consisting of self-centering panels and steel strip braces. The system combines the favorable re-centering feature of conventional self-centering building frames and the energy absorption capacity and high initial stiffness of concentrically braced frames. The system also overcomes the detrimental frame expansion effect that occurs in conventional self-centering building frames. Following the proposed design approach, multiple designs to achieve different performance objectives were performed for a representative three-story building in which the considered lateral force resisting system is used to resist the seismic forces. Nonlinear response history analyses were performed for the designs to evaluate the applicability and adequacy of the proposed design approach. Based on the analyses conducted in this research, it was found that the considered system designed using the proposed approach can meet both transient and residual inter-story drift requirements specified for the selected performance objectives. While an initial design per the proposed design approach may be inadequate, the re-design strategy recommended can help transform the design to an acceptable one after only one round of modification. Moreover, the high-mode effect appears nonnegligible in the considered system and this effect should be considered in the proposed approach through the use of the lateral distribution factor of seismic forces specifically for self-centering systems.
+Keywords: Self-centering; Energy absorbing; Design; Tension-only braces
+
+Amory Martin, Gregory G. Deierlein,
+Structural topology optimization of tall buildings for dynamic seismic excitation using modal decomposition,
+Engineering Structures,
+Volume 216,
+2020,
+110717,
+ISSN 0141-0296,
+https://doi.org/10.1016/j.engstruct.2020.110717.
+(http://www.sciencedirect.com/science/article/pii/S0141029620310531)
+Abstract: Structural topology optimization has been successfully investigated to improve the designs of a variety of civil, mechanical and aerospace applications. While topology optimization for static loading is fairly well developed, methods for dynamic seismic loading remain a challenge. In this paper, dynamic topology optimization methods are reviewed and contrasted, focusing on frequency domain techniques. Inspired by earthquake engineering analysis methods, a dynamic topology optimization formulation called the sum of modal compliances (SMC) is proposed. By considering multiple eigenmodes, the structural vibration is minimized for a seismic excitation, described by a response spectrum. The formulation handles design-dependent loading, due to inertial effects, by performing a series of design-independent topology optimization problems, between which, the seismic modal load vector is updated. Applications for the lateral bracing of high-rise buildings on 2D and 3D examples demonstrate the capabilities of the procedure and conceptual understanding of optimization for seismic loading. Results demonstrate that the optimized topology is influenced by the earthquake frequency content, which is dependent on the soil and seismological effects beneath the structure.
+Keywords: Topology optimization; Seismic loading; Modal decomposition; Structural design; High-rise building
+
+Aristotelis E. Charalampakis, George C. Tsiatas, Sotiris B. Kotsiantis,
+Machine learning and nonlinear models for the estimation of fundamental period of vibration of masonry infilled RC frame structures,
+Engineering Structures,
+Volume 216,
+2020,
+110765,
+ISSN 0141-0296,
+https://doi.org/10.1016/j.engstruct.2020.110765.
+(http://www.sciencedirect.com/science/article/pii/S014102962030691X)
+Abstract: In this work, the estimation of the fundamental period of vibration of masonry infilled RC frame structures is achieved using both Machine Learning techniques and concise nonlinear formulas. The data used are extracted from a recently published extensive database that associates the period with relevant information, such as the height of the structure, the span length between columns, the wall opening ratio, and the masonry wall stiffness. It is shown that, as compared to the utilized data, the proposed methods produce excellent results at the cost of various levels of complexity.
+Keywords: Fundamental period; Masonry infilled framed structures; Machine learning; Artificial neural networks; M5Rules; Nonlinear models
+
+Xuan Guo, Chen Zhang, ZhiQiang Chen,
+Dynamic performance and damage evaluation of a scoured double-pylon cable-stayed bridge under ship impact,
+Engineering Structures,
+Volume 216,
+2020,
+110772,
+ISSN 0141-0296,
+https://doi.org/10.1016/j.engstruct.2020.110772.
+(http://www.sciencedirect.com/science/article/pii/S0141029619350904)
+Abstract: Safety evaluation of a bridge crossing a river under vessel impact is commonly conducted based on the original model of the bridge. However, the bridge may be subjected to local scour within its service time. Therefore, it is necessary to assess the safety of the bridge under multiple hazards: local scour and vessel impact. In this effort, the nonlinear dynamic performance of a double-pylon cable-stayed bridge is investigated by a high-resolution finite-element (FE) method. First, to validate the accuracy of the FE model, a drop-hammer test conducted by previous researchers is simulated, and the numerical results show that the impact force, displacement, and failure modes match with those in the test for each case. Based on the validation, an FE model that constructs a complex colliding system for a double-pylon cable-stayed bridge and a ship is created to conduct nonlinear dynamic analysis. The impact forces, deformation of the pylon and pile foundation, and crush depths of the ship are calculated. The findings indicate that (1) local scour has a small effect on the rising step of ship impact force but affects its descending step; (2) the displacement at the impact point significantly increases with scour depth; (3) scour reduces the crush depth of the ship bow when the ship collides at lower collision velocities; (4) the ship impacts activate the vibration of the high-rise pylon, and the resulting damage severity in the pylon increases with scour depth under the same collision condition. The findings in this study can be used to guide the analysis and design of large-span bridges to resist local scour and ship impact.
+Keywords: Cable-stayed Bridge; High-rise Pylon; Ship Impact; Local Scour; Damage
+
+Chen Jia, Yongsong Shao, Lanhui Guo, Hongbo Liu,
+Cyclic behavior and constitutive model of high strength low alloy steel plate,
+Engineering Structures,
+Volume 217,
+2020,
+110798,
+ISSN 0141-0296,
+https://doi.org/10.1016/j.engstruct.2020.110798.
+(http://www.sciencedirect.com/science/article/pii/S0141029620306921)
+Abstract: Cyclic loading tests with different protocols were conducted for a high strength low alloy steel. Based on the test results, the low cycle fatigue and extremely low cycle fatigue performance of the high strength steel was discussed and an appropriate constitutive model was established. The experimental results implied that the low and extremely cycle fatigue failure showed different fracture features. For low cycle fatigue, there was a strong negative linear correlation between the fatigue life and the strain amplitude in the log–log scale. However, they did not conform the linear relation when transiting to the low cycle fatigue. The steel represented obvious cyclic softening and good energy dissipation capacity. With the increase of strain amplitude, the softening degree decreased and equivalent damping ratio increased. The cyclic stress–strain curve could be descried by the Ramberg-Osgood model, and the strength coefficient and strain hardening exponent of this steel were larger than those of steel with lower strength. A combined hardening model was calibrated to describe the cyclic plasticity of the steel, and it was verified by the simulation results.
+Keywords: High strength steel; Cyclic loading; Low cycle fatigue; Extremely low cycle fatigue; Constitutive model
+
+Danying Gao, Zhiqiang Gu, Jiyu Tang, Chong Zhang,
+Fatigue performance and stress range modeling of SFRC beams with high-strength steel bars,
+Engineering Structures,
+Volume 216,
+2020,
+110706,
+ISSN 0141-0296,
+https://doi.org/10.1016/j.engstruct.2020.110706.
+(http://www.sciencedirect.com/science/article/pii/S0141029619346218)
+Abstract: The fatigue performance of steel-fiber-reinforced concrete (SFRC) beams with tensile steel bars of 500 MPa yielding strength (HRB500) was investigated through flexural tests. One control beam was tested to determine the ultimate capacity on being subjected to static loading, and eight beams with variable stress levels and fiber contents were tested subjected to fatigue loading. Test results indicated that the fatigue life of the beams decreased with increasing stress level and increased with fiber content. For an SFRC beam with 1% fiber content, its fatigue life increased by twice compared with that of non-fiber-reinforced concrete beams, thereby, confirming the fact that adding steel fibers into concrete can enhance fatigue life significantly. With the addition of steel fibers, the cracking patterns of the beams improved and deflections decreased during fatigue loading. Furthermore, the stress range of the tensile steel bar decreased with increasing fiber content, and slippage did not occur between the tensile steel bar and concrete owing to adequate anchorage. An effective moment of inertia method that considers the effects of steel fibers was used to calculate the stresses of tensile steel bars in the first loading cycle; subsequently, an empirical expression to calculate the SFRC strain in compression zone under fatigue loading is established. Finally, a prediction model of stress range for the tensile steel bar of SFRC beams under fatigue loading is proposed and further validated through the results of tests on 19 SFRC beams.
+Keywords: Fatigue performance; SFRC beam; High-strength steel bar; Steel fiber volume fraction; Stress range prediction
+
+Hong-Song Hu, Li Xu, Zi-Xiong Guo, Bahram M. Shahrooz,
+Behavior of eccentrically loaded square spiral-confined high-strength concrete-filled steel tube columns,
+Engineering Structures,
+Volume 216,
+2020,
+110743,
+ISSN 0141-0296,
+https://doi.org/10.1016/j.engstruct.2020.110743.
+(http://www.sciencedirect.com/science/article/pii/S0141029620307057)
+Abstract: Concrete-filled steel tube (CFST) columns have been widely used in super tall buildings. Since these columns are subjected to very high axial loads, the use of high-strength concrete (HSC) is preferred in order to reduce their cross-sectional size. For applications in seismic regions, additional confinement to the HSC may be needed to ensure ductility. Among various approaches, spiral confinement is an effective and practical way for square CFST columns. Six spiral-confined concrete-filled steel tube (SCCFST) columns and three CFST columns with the concrete compressive strength of 111 MPa were tested under eccentric axial loading. The behavior of the columns under different levels of eccentricity ratio was investigated, and the use of high-strength spirals to further enhance confinement was also examined. Concrete crushing was found to be the main cause for the loss of the load-carrying capacity. Spiral reinforcement is not effective in increasing the load-carrying capacity; however, it can considerably improve ductility, which is improved with an increase of the yield strength of spiral reinforcement. Based on the test results, an equivalent uniaxial stress–strain model was developed for the HSC in CFST and SCCFST columns. A fiber beam-column element using the proposed stress–strain models was found to provide good predictions of the measured load–displacement responses. Such fiber element can be used for modeling of SCCCFST columns with HSC in nonlinear structural analysis of tall buildings.
+Keywords: High-strength concrete; Concrete-filled steel tube (CFST); Eccentric column; Spiral confinement; Ductility; Stress–strain model; Fiber model analysis
+
+Claudio I. Olivares, Juan C. de la Llera, Alan Poulos,
+Torsion control in structures isolated with the triple friction pendulum system,
+Engineering Structures,
+Volume 216,
+2020,
+110503,
+ISSN 0141-0296,
+https://doi.org/10.1016/j.engstruct.2020.110503.
+(http://www.sciencedirect.com/science/article/pii/S0141029618341415)
+Abstract: A parametric study was carried out to investigate the torsional response of structures isolated with the Triple Friction Pendulum (TFP) system with building properties such as uncoupled torsional to lateral frequency ratio, Ωs, building slenderness, and mass and stiffness eccentricities. A simplified model of a parametric multistory structure and a small deformation model of the TFP, but with the ability to capture uplift, were used to perform parametric 3D non-linear dynamic analyses. The input ground motions were 20 Chilean records selected using a conditional mean spectrum. Response history results showed that uplift in the devices occurs in structures with large mass eccentricity, and in some extreme cases, normal force values in the TFPs may be as large as 6 times the nominal average gravitational load in each isolator. Torsional envelope response results also show that mass eccentric systems may undergo larger normalized edge amplification factors relative to stiffness eccentric systems, with values 2.5 and 1.8, respectively, and that torsional balance cannot be achieved naturally. Although rotations are small in magnitude due to seismic isolation, displacement values in resisting planes of the superstructure equidistant from the geometric center of the plan will be different. Moreover, structures with large Ωs present correlation values between response histories of torsion and translation measured at the geometric center of the plan near one, as well as values above zero for different Ωs and plan eccentricity, which implies no torsional control in the weak sense. It is concluded that parameter Ωs strongly influences the torsional amplification values computed herein.
+Keywords: Torsion control; Triple friction pendulum; Weak torsional balance; Seismic isolation
+
+Miguel Yurrita, José Manuel Cabrero,
+New design model for brittle failure in the parallel-to-grain direction of timber connections with large diameter fasteners,
+Engineering Structures,
+Volume 217,
+2020,
+110557,
+ISSN 0141-0296,
+https://doi.org/10.1016/j.engstruct.2020.110557.
+(http://www.sciencedirect.com/science/article/pii/S0141029619340738)
+Abstract: Timber connections may collapse in a brittle or in a ductile mode. The calculation models of timber joints are mainly focused on ductile failure mode, since it has been traditionally assumed that brittle failure was avoided by respecting a minimum spacing between fasteners. However, this assumption alone does not guarantee a ductile failure. This paper proposes a new design model dealing with brittle failure modes of timber connections with large diameter fasteners (those protruding the whole thickness of the timber member such as dowels or bolts). A comparison between the proposal and the existing models, using an extensive database of tests, is used to demonstrate the improved accuracy of the proposed design method.
+Keywords: Timber connection; Brittle failure; Parallel-to-grain; Dowel-type fastener; Eurocode 5
+
+Ruiwei Feng, Tongfa Deng, Tianpeng Lao, Anastasios G. Sextos, Wancheng Yuan,
+Theory and experimental verification of a resultant response-based method for assessing the critical seismic excitation direction of curved bridges,
+Engineering Structures,
+Volume 216,
+2020,
+110713,
+ISSN 0141-0296,
+https://doi.org/10.1016/j.engstruct.2020.110713.
+(http://www.sciencedirect.com/science/article/pii/S0141029619355555)
+Abstract: Previous studies have shown that the seismic incidence angle imposes a non-negligible impact on the seismic performance of curved bridges. The computational efficiency of some current methods for determining the critical angle needs to be improved and their applicability in practical engineering projects remains to be examined. For this reason, a resultant response-based (RRB) method is developed herein for assessing the critical excitation direction of curved bridges. To validate the feasibility of this method in an actual seismic design context, a 1/62.5-scale model of a three-span curved bridge is designed and a multi-angle shaking table test is implemented. Meanwhile, the finite-element model of the test specimen is set up, and the RRB method as well as the linear response-history analysis (LRHA) are comparatively assessed. The results indicate that the RRB method can capture the critical excitation direction of curved bridges with sufficient precision (error does not exceed 10% compared to LRHA). The associated computational effort is also substantially reduced given that RRB requires analysis solely along two orthogonal directions as the incidence angles, compared to standard response history analyses where ground motion excitation is applied at multiple ground motion orientations. The above observation is further verified by a well-designed experimental campaign, which demonstrates the accuracy and practicability of the RRB method for the case of realistic bridge configurations.
+Keywords: Curved bridges; Critical excitation directions; Resultant response; Shaking table; Response spectrum
+
+Ali A. Semendary, Dagmar Svecova,
+Factors affecting bond between precast concrete and cast in place ultra high performance concrete (UHPC),
+Engineering Structures,
+Volume 216,
+2020,
+110746,
+ISSN 0141-0296,
+https://doi.org/10.1016/j.engstruct.2020.110746.
+(http://www.sciencedirect.com/science/article/pii/S0141029619334418)
+Abstract: The bond strength between precast concrete and cast in place ultra high performance concrete (UHPC) plays a significant role in the application of UHPC as a filling material for bridge connections or an overlay in the rehabilitation of bridges. This study examined several factors that affect the interfacial bond strength in order to cover wide range of conditions in the field. It investigated the effect of type of concrete substrate (normal and high strength concrete), aggregate type (crushed stone and river stone), surface preparation (dry and saturated surface dry), UHPC age, and testing method. The experimental program was conducted in two phases. In Phase I, the effects of concrete strength, UHPC age and type of aggregate were explored using direct tension test method, while in Phase II, the effect of surface preparation was investigated using four different test methods. The results indicate that the UHPC age after casting resulted in a marginal increase in the bond strength for normal strength concrete (NSC) and a significant increase in the bond strength of the high strength concrete (HSC) specimens. The HSC specimens, however, showed slightly higher bond strength than the NSC after 7 and 28 days of curing. Moisture at the interface increased the bond strength by 3%, 22.7% and 2.3% using direct tension, bi-shear and slant shear, respectively. Except for bi-shear test, the saturated surface dry (SSD) surface preparation reduced the variability of test results and the likelihood of the interfacial failure. The cohesion and shear friction coefficients were determined using several methods. The minimum cohesion value was 2.78 MPa (0.4 ksi) for dry and SSD conditions, while the friction coefficients were1.33 and 1.32 for dry and the SSD specimens, respectively. The minimum bond strength under tension was 3.39 MPa (0.49 ksi) and 3.49 MPa (0.51 ksi) for dry and SSD conditions, respectively. Both dry and SSD surface preparation resulted in superior bond and friction that exceeds the value reported by code provisions.
+Keywords: UHPC; NSC; Bond; Friction; Adhesion; Cohesion; Bridge; Connection
+
+Hui Zhao, Rui Wang, Q.M. Li, Hao Wu, Chuan-Chuan Hou, Guoqing An,
+Experimental and numerical investigation on impact and post-impact behaviours of H-shaped steel members,
+Engineering Structures,
+Volume 216,
+2020,
+110750,
+ISSN 0141-0296,
+https://doi.org/10.1016/j.engstruct.2020.110750.
+(http://www.sciencedirect.com/science/article/pii/S0141029619348382)
+Abstract: The impact and post-impact behaviours of H-shaped steel members are investigated experimentally and numerically in this paper. The drop-hammer impact tests and the axial compression tests after impact were firstly performed on thirteen specimens, in which two boundary conditions and four impact energies (drop height ranged from 1.04 m to 2.50 m) were used. Experimental results such as failure patterns, impact force–time histories, permanent deformations and post-impact axial load-lateral deflection curves were presented. Subsequently, finite element models were established using ABAQUS software. The impact test and the axial compression test after impact were reproduced using the explicit and implicit algorithms in ABAQUS, respectively. Finally, case studies were carried out using the validated FE models to assess the residual load-carrying capacities of impact-damaged H-shaped steel members in industrial plants. The results showed that the boundary condition had an influence on the failure pattern and impact force response during impact. Within the parameter range of this work, the residual load-carrying capacity of H-shaped steel members was primarily affected by the global deformation at the mid-height induced by impact.
+Keywords: Impact; H-shaped steel; Axial compression; Residual capacity; Finite element analysis
+
+Tommaso D'Antino, Francesco Focacci, Lesley H. Sneed, Christian Carloni,
+Relationship between the effective strain of PBO FRCM-strengthened RC beams and the debonding strain of direct shear tests,
+Engineering Structures,
+Volume 216,
+2020,
+110631,
+ISSN 0141-0296,
+https://doi.org/10.1016/j.engstruct.2020.110631.
+(http://www.sciencedirect.com/science/article/pii/S0141029619331943)
+Abstract: Debonding of fiber-reinforced composites can limit the increase of strength that a reinforced concrete (RC) beam can achieve due to the addition of the external layer of reinforcement provided by the composite. Small-scale direct shear tests can help understand the debonding phenomenon. However, researchers have debated for decades whether the results of direct shear tests can be used to predict the strain level at which the composite would fail in strengthened beams. This paper is the first systematic attempt to address this issue. A database of RC beam flexural tests and of direct shear tests that feature externally bonded polypara-phenylene-benzo-bisoxazole (PBO) fiber-reinforced cementitious matrix (FRCM) composite is compiled. For the beam tests, two methods are employed to determine the strain in the composite at failure due to debonding, referred to herein as the cross-sectional analysis method and the ΔM method, and the results are compared with those of direct shear tests. The relationship between the effective strain in the FRCM when composite action is lost and the debonding strain in direct shear tests is critically discussed taking into account what is prescribed by current design guidelines. The limitations of the cross-sectional analysis method to determine the effective strain are also highlighted.
+Keywords: Fiber-reinforced cementitious matrix (FRCM); Flexural test; Direct shear test; Bond; Effective strain
+
+Fernanda de Borbón, Martín Domizio, Daniel Ambrosini, Oscar Curadelli,
+Influence of various parameters in the seismic soil-structure interaction response of a nuclear power plant,
+Engineering Structures,
+Volume 217,
+2020,
+110820,
+ISSN 0141-0296,
+https://doi.org/10.1016/j.engstruct.2020.110820.
+(http://www.sciencedirect.com/science/article/pii/S0141029620300699)
+Abstract: This paper presents a numerical study of the influence of various parameters on the seismic response of the CAREM-25 nuclear power plant (NPP) located in Argentina. The influence of soil stiffness, structure-soil-structure interaction (3SI), and infill soil stiffness are studied. Considering the available analysis capabilities, a full 3D methodology was adopted (direct method). Two soil profiles were used in order to quantify the influence of the soil on the structural response. An engineered rockfill was also used in order to study the influence of infill soil stiffness. Three artificial records with three components each were used as free field input. These records were obtained from the site design spectra. The turbo-group building was approximately modelled in order to consider 3SI. Finally, all live loads as well as the water in pools were included in the model. Design guides for this type of problem are given for all the elements of the model. When comparing flexible soil with stiff soil, important reductions of the maximum absolute acceleration value are obtained by flexible soil. Moreover, the horizontal maximum accelerations are remarkably amplified in height in the case of stiff soil. The influence of the proximity of the turbo-group building (3SI) on the dynamic response of the reactor building is negligible. Finally, the influence of infill soil stiffness is also negligible.
+Keywords: Soil-structure interaction; Seismic analysis; Direct method; Soil stiffness; Structure-soil-structure interaction; Infill soil
+
+Paul Mayencourt, Caitlin Mueller,
+Hybrid analytical and computational optimization methodology for structural shaping: Material-efficient mass timber beams,
+Engineering Structures,
+Volume 215,
+2020,
+110532,
+ISSN 0141-0296,
+https://doi.org/10.1016/j.engstruct.2020.110532.
+(http://www.sciencedirect.com/science/article/pii/S0141029619336752)
+Abstract: The building sector is responsible for a large portion of the global CO2e emissions. With structural materials accounting for a large part of it, the reduction of material used in buildings offers an important mitigation option to climate change. Standardized structural elements (eg. columns, beams, floors) have very low material efficiencies, as their shape does not consider the final use and load cases. New digital manufacturing technologies emerging in the field of construction and architecture, open new opportunities for the design of mass-customized structural elements, with the potential for more efficient use of materials in ubiquitous constructions. This paper offers a shaping methodology for the optimization of structural elements based on computational geometry and analytical mechanics. The paper implements the methodology for the shape optimization of mass timber beams. The methodology reveals that a large amount of structural material could be saved on standard structural timber elements. The accuracy of the solutions is benchmarked against analytical solutions and Finite Element Analysis (FEM). In order to implement the methodology for the optimization of timber beams, the analytical mechanics of shaped solid wooden beams are expanded from the existing literature and are presented in this paper. With the potential of being applied to a wider range of material systems, the methodology can significantly decrease the material consumption in a wide range of structural elements. Finally, the resulting optimized geometries demonstrate new objectives for the development of digital manufacturing techniques of mass-customized structures for the implementation in standard buildings.
+Keywords: Timber structure; Structural optimization; Shape optimization; Shaping; Analytical mechanics; Parametric design; Environmental design
+
+Mohammad M. Zafarani, Amir M. Halabian,
+A new supervisory adaptive strategy for the control of hysteretic multi-story irregular buildings equipped with MR-dampers,
+Engineering Structures,
+Volume 217,
+2020,
+110786,
+ISSN 0141-0296,
+https://doi.org/10.1016/j.engstruct.2020.110786.
+(http://www.sciencedirect.com/science/article/pii/S0141029619324927)
+Abstract: The simplified one-story asymmetric models cannot simulate the inelastic performance of controlled irregular multi-story frame type buildings subjected to extreme dynamic loadings, especially when the effect of higher modes on distribution of engineering demand parameters (EDPs) over the height of the structures is an important design factor. In the present study, controlled nonlinear seismic response of coupled translational–torsional irregular multi-story smart buildings is investigated. In order to control such nonlinear systems, a new robust adaptive model-based controller is introduced. This new adaptive model-based strategy, due to using adjustable parameters such as instant stiffness, could well consider the nonlinear behavior of the structure and act more precisely in controlling the torsional behavior of Magneto- Rheological (MR) dampers-equipped multi-story torsional buildings. The proposed controller uses the advantages of nonlinear static analysis in order to introduce the instant nonlinear stiffness of the structure into model-based control strategies such as LQR (Linear–Quadratic–Regulator) or LQG (Linear–Quadratic–Gaussian) and also Clipped Optimal algorithms. The proposed controller is applied to a set of low and mid-rise multi-story buildings equipped with MR dampers considering three different torsional behavior. The Fiber elements are employed to simulate the non-linear behavior of structural members. The findings of this study revealed the robustness of the proposed strategy to control the seismic inelastic torsional responses of multi-story buildings subjected to ordinary and pulse-like ground motions.
+Keywords: Adaptive model-based algorithm; Seismic control; Nonlinear behaviour; Plan asymmetric buildings; Multi-story buildings
+
+Giuseppe Brandonisio, Maurizio Angelillo, Antonello De Luca,
+Seismic capacity of buttressed masonry arches,
+Engineering Structures,
+Volume 215,
+2020,
+110661,
+ISSN 0141-0296,
+https://doi.org/10.1016/j.engstruct.2020.110661.
+(http://www.sciencedirect.com/science/article/pii/S0141029619353015)
+Abstract: Masonry buttressed arches have been designed in the past for vertical actions deriving from gravity loads and horizontal actions determined by the thrust of the arch. Horizontal actions consequent to earthquake motions were not usually taken into account in the design of these structures. This, despite of the high vulnerability of such typology, frequently characterizing monumental buildings. This paper addresses the problem of the capacity of buttressed masonry arches with a circular shape and different angles of embrace, under horizontal actions induced by seismic motions. To this aim, in the framework of Limit Analysis for masonry structures, the seismic analysis of a large sample of buttressed arches is provided and discussed. The outcomes of numerical analysis have shown that the activated failure mechanisms change in presence of horizontal actions. The results of the analysed large sample are very consistent in terms of lateral capacity since the horizontal load multiplier increases with the thickness of the buttresses and decreases with the buttress slenderness. The paper provides an unexpected result for thin arches since in this case semi-circular arches become more vulnerable than segmental.
+Keywords: Buttressed masonry arches Limit analysis; Failure mechanisms; Seismic capacity
+
+Zhong-Xian Li, Xuejie Zhang, Yanchao Shi,
+Experimental study on the dynamic bond behavior between CFRP and concrete under different slip rates,
+Engineering Structures,
+Volume 216,
+2020,
+110788,
+ISSN 0141-0296,
+https://doi.org/10.1016/j.engstruct.2020.110788.
+(http://www.sciencedirect.com/science/article/pii/S014102961933929X)
+Abstract: In this paper, a series of single-shear tests were carried out to investigate the bond behavior between carbon FRP (CFRP) and concrete under quasi-static and dynamic loadings. The local bond stress-slip relationship and the ultimate bond strength between CFRP and concrete with different compressive strengths under different slip rates between 1.2 × 10−5 m/s and 9 m/s were derived and compared. Test results showed that the ultimate bond strength, maximum bond stress and slip at maximum bond stress increase with the increase of slip rate, while the effective bond length is not sensitive to the slip rate. Based on the testing data, several empirical formulas were proposed to predict the ultimate bond strength, maximum bond stress and slip at maximum bond stress under different slip rates. A local bond stress-slip model, which incorporates the effect of the slip rate, was also established.
+Keywords: CFRP-concrete interface; Dynamic loading; Effective bond length; Ultimate bond strength; Local bond stress-slip
+
+Michał Głowacki, Robert Kowalski,
+An experimental approach to the estimation of stiffness changes in RC elements exposed to bending and high temperature,
+Engineering Structures,
+Volume 217,
+2020,
+110720,
+ISSN 0141-0296,
+https://doi.org/10.1016/j.engstruct.2020.110720.
+(http://www.sciencedirect.com/science/article/pii/S0141029619339264)
+Abstract: This paper presents the results of tests for possible stiffness changes in bent reinforced concrete elements exposed to simultaneous action of load and high temperature. The above issue plays a critical role in the advanced analysis of complex RC structures subjected to fire. In order to examine this issue, an experimental study of 24 full-size RC beams was performed. All beams were divided into 8 series according to 3 factors: (1) the cross-section zone exposed to high temperature – tension or compression zone, (2) reinforcement ratio – 0.44 or 1.13%, (3) load level in reference to ultimate load capacity at room temperature – 50 or 70%. The pure bending part of the beam was heated. Stiffness changes estimated on the basis of deflection measurement. The cross-section stiffness of the beam with the heated tension zone decreases rapidly at the initial heating stage. A decrease of 60–80% in cross-section stiffness is observed at reinforcement temperature of 200–300 °C. When reinforcement temperature is about 500 °C, the cross-section stiffness may be only 10–15% of its value at room temperature. It has also been found that the model recommended in Eurocode 1992-1-2 characterizing mechanical properties of tensile steel in high temperature may be used for the adequate prediction of stiffness decrease in the cross-section with the heated tension zone. It can be assumed that during heating the stiffness of cross-sections with the heated compression zone will remain approximately constant for some time. It will only start to decrease when the strain of concrete exposed simultaneously to load and high temperature begins to exceed its free thermal strain. This paper presents a simplified method to estimate the cross-section stiffness in bent reinforced concrete elements with the heated tension or compression zone.
+Keywords: RC beams; Load; High temperature; Fire; Deflection; Stiffness; Tests
+
+Yanlei Wang, Gaochuang Cai, Amir Si Larbi, Danièle Waldmann, Konstantinos Daniel Tsavdaridis, Jianghua Ran,
+Monotonic axial compressive behaviour and confinement mechanism of square CFRP-steel tube confined concrete,
+Engineering Structures,
+Volume 217,
+2020,
+110802,
+ISSN 0141-0296,
+https://doi.org/10.1016/j.engstruct.2020.110802.
+(http://www.sciencedirect.com/science/article/pii/S0141029619317201)
+Abstract: Steel tube confined concrete (STCC) is widely used in the vertical members of high-rise buildings such as columns. The axial load is not directly resisted by the steel tube in STCC, but is resisted via the interfacial frictional stress between steel tube and concrete core, which is different with that of concrete filled steel tube (CFT) members and would effectively suppress the outward local buckling of steel tube at early stage. Recently, fibre-reinforced polymer (FRP) confined STCC presents a potential to enhance the ductility and durability of such vertical elements. This paper presents an experimental study on monotonic axial compressive behaviour of carbon FRP (CFRP) confined STCC (CFRP-STCC) stub column and an analytical study on the confinement mechanism of and the ultimate axial bearing capacity of the elements. A three-stage confinement mechanism involving the different contributions of the steel tube and the CFRP wrap in CFRP-STCC elements was proposed based on the test results. A prediction model of the ultimate axial bearing capacity of CFRP-STCC stub columns was developed subsequently. Results show that the presence of CFRP wrap enhances effectively the load-bearing capacity and the ductility of steel tube confined plain concrete and reinforced concrete elements, and significantly prevents the local buckling of the steel tubes in the elements. The proposed prediction model of ultimate axial bearing capacity assesses test results with a great agreement.
+Keywords: FRP confined concrete; Steel tube confined concrete; Constitutive model; Confinement mechanism; Axial compressive behaviour
+
+Qibin Hu, Ying Gao, Xinmiao Meng, Yue Diao,
+Axial compression of steel–timber composite column consisting of H-shaped steel and glulam,
+Engineering Structures,
+Volume 216,
+2020,
+110561,
+ISSN 0141-0296,
+https://doi.org/10.1016/j.engstruct.2020.110561.
+(http://www.sciencedirect.com/science/article/pii/S0141029619345158)
+Abstract: A steel–timber composite (STC) column made of H-shaped steel and glulam is proposed in this paper. This STC column is constructed by wrapping the H-shaped steel with the adhesive-applied glulam, which provides confinement to reduce the buckling behaviour of the inner steel. Six STC specimens with lengths of 1100 mm, 1700 mm and 2300 mm were studied using an axial compression test in comparison to three steel and three timber specimens. The distinctive behaviours of the specimens were identified, including the failure mode, load–axial displacement relationship, load–lateral deflection relationship and load–axial strain response. The results demonstrated that the mechanical properties of the STC column are significantly affected by column length. The interaction mechanism between the steel and timber materials was evaluated by analysing the yield strain and the ductility coefficient. The composite effect of the STC column was also discussed by comparing the average strengths. Furthermore, the load-carrying capacity calculation formula including parameter selection of the STC column when yielding was proposed.
+Keywords: Steel–timber composite column; Buckling; Axial compression test; Interaction mechanism; Composite effect; Load-carrying capacity
+
+Camilo Perdomo, Ricardo Monteiro,
+Simplified damage models for circular section reinforced concrete bridge columns,
+Engineering Structures,
+Volume 217,
+2020,
+110794,
+ISSN 0141-0296,
+https://doi.org/10.1016/j.engstruct.2020.110794.
+(http://www.sciencedirect.com/science/article/pii/S0141029619343378)
+Abstract: Damage models are fundamental elements within probabilistic frameworks, such as Performance-Based Earthquake Engineering (PBEE), for the seismic assessment of RC structures. For bridges, in specific, there are not many available experimental results for the characterization of damage in the RC columns hence the numerical counterpart acquires particular relevance. In this paper, via Monte Carlo simulation and comparison with complementary experimental results, a damage model consisting of a library of median and logarithmic dispersion values for curvature ductility, displacement ductility and drift, describing the probability of reaching a particular damage limit state are generated as a function of key parameters of circular RC bridge columns. Four damage limit states are considered: slight, moderate, extensive and complete. Simplified relationships based on the full datasets are proposed for easier implementation. The proposed damage models can be used for threshold identification and economic loss assessment in performance-based earthquake engineering of RC bridges.
+Keywords: Bridges; Circular section column; Damage limit state; Component damage model; Seismic assessment
+
+Wang-Ji Yan, Ka-Veng Yuen,
+A new probabilistic frequency-domain approach for influence line extraction from static transmissibility measurements under unknown moving loads,
+Engineering Structures,
+Volume 216,
+2020,
+110625,
+ISSN 0141-0296,
+https://doi.org/10.1016/j.engstruct.2020.110625.
+(http://www.sciencedirect.com/science/article/pii/S0141029620305228)
+Abstract: On the basis of the amazing theoretical finding that there is equivalence between the static transmissibility subjected to moving loads and the ratio of two influence lines in the frequency domain, a new approach is proposed to extract the influence lines for a beam-like structure under moving loads. To accommodate the uncertainties involved in the measurements as well as modelling error, the relationship between response measurements and the Fourier transform of influence lines is embedded in the framework of Bayesian inference with the aid of complex-valued probabilistic model of prediction error. The formulas are presented for closed-form transformation between the solutions of FFT coefficients and those of inverse FFT coefficients. Analytical solutions of the Most Probable Values (MPVs) as well as posterior uncertainties of the influence lines in both frequency domain and spatial domain are derived. Two applications are conducted to verify the efficiency and accuracy of the fast Bayesian scheme. It is shown that the new approach can be realized by avoiding the ill-poseness nature of inverse problem. Due to the introduction of the concept of static transmissibility, given that the reference influence line is known in advance, this method possesses an obvious advantage in avoiding using the knowledge of the moving loads. As a frequency-domain approach, it can reduce the computational complexity of influence line extraction by avoiding complicated matrix manipulation.
+Keywords: Influence line; Bayesian analysis; Moving loads; Transmissibility; Structural health monitoring; Bridge
+
+Tadesse G. Wakjira, Usama Ebead,
+Shear span-to-depth ratio effect on steel reinforced grout strengthened reinforced concrete beams,
+Engineering Structures,
+Volume 216,
+2020,
+110737,
+ISSN 0141-0296,
+https://doi.org/10.1016/j.engstruct.2020.110737.
+(http://www.sciencedirect.com/science/article/pii/S0141029620305149)
+Abstract: The effect of the shear span-to-depth (a/d) ratio on the shear behavior of steel reinforced grout (SRG)-strengthened reinforced concrete (RC) beams is experimentally investigated. Four critical shear spans corresponding to a/d ratios of 1.60, 2.10, 2.60, and 3.10, representing a range for deep to slender beams were considered. In addition, the effect of the steel fabric density of SRG composites was also explored. Twelve beams were cast in four series of three specimens each. The experimental results demonstrated the strengthening efficacy of SRG for deficient beams in shear. The SRG strengthening enhanced the overall capacity of the beams by more than 130% with an average of 78%. Moreover, the results confirmed the effect of the a/d ratio on the performance of SRG-strengthened beams. The efficacy of the SRG significantly increased with an increase in a/d ratio in deep beams but deteriorated as a/d ratio increase in slender beams. Finally, an analytical model for predicting the shear capacity of SRG-strengthened beams is proposed that captures the effect of the a/d ratio. The model provides accurate and safe predictions with an average of the ratio of the predicted to experimental shear capacities (Vth/Vex) of 0.99 with a standard deviation of 0.068.
+Keywords: Composite; Span-to-depth ratio; Steel reinforced grout (SRG); Strengthening; Retrofitting
+
+Xinru Li, Zhimin Wu, Jianjun Zheng, Qi Cao,
+Rate-dependent bond performance of plain bars in concrete under biaxial transverse tensions,
+Engineering Structures,
+Volume 216,
+2020,
+110740,
+ISSN 0141-0296,
+https://doi.org/10.1016/j.engstruct.2020.110740.
+(http://www.sciencedirect.com/science/article/pii/S0141029619351909)
+Abstract: Although plain bars are no longer used as reinforcing bars in new buildings, old-type concrete structures reinforced with plain bars are still in service, and the assessment and rehabilitation of these structures become increasingly important. In view of the column tension caused by vertical seismic actions, concrete within beam-column joints is likely under biaxial transverse tensions, which is extremely detrimental to the bond between concrete and reinforcements. In this paper, a comprehensive experimental study considering various concrete strengths and bar diameters is conducted to evaluate the rate-dependent bond characteristics of plain bars embedded in concrete subjected to biaxial transverse tensions. The main bond parameters are assessed quantitatively by numerical regression. The results show that the ultimate bond strength and the ratio of residual to ultimate bond strength are independent of the loading rate, whereas the slip at the ultimate bond stress decreases with increasing the loading rate. In addition, the modified BPE model is adopted to describe the local bond behavior of plain bars, and the model parameters involved are calibrated by experimental results. It is shown that the model can reasonably predict the bond performance of plain bars under different loading rates when the surrounding concrete is subjected to various biaxial transverse tensions.
+Keywords: Plain bar; Biaxial transverse tension; Bond stress-slip relationship; Loading rate
+
+Bankole I. Oladapo, Sikiru O. Ismail, Mohsen Zahedi, Affan Khan, Hazrat Usman,
+3D printing and morphological characterisation of polymeric composite scaffolds,
+Engineering Structures,
+Volume 216,
+2020,
+110752,
+ISSN 0141-0296,
+https://doi.org/10.1016/j.engstruct.2020.110752.
+(http://www.sciencedirect.com/science/article/pii/S0141029619336648)
+Abstract: 3D-printing is an efficient method of designing customised structures and producing synthetic bone grafts appropriate for bone implants. This research aimed to manufacture a new multi-functionalised 3D-printed poly(lactic acid)/carbonated hydroxyapatite (PLA/cHA) scaffolds with mass proportions of 100/0, 95/5 and 90/10 in a bid to verify their potential application in tissue regeneration. The filaments of these hybrid materials were obtained by extrusion technique and subsequently used to manufacture the 3D-printed scaffolds, using a fused deposition modelling (FDM) technique. The scaffolds were characterised based on their thermal properties, microstructure and geometry by differential scanning calorimetry (DSC), scanning electron microscopy (SEM) and energy dispersive x-ray spectroscopy (EDS), respectively, in addition to determination of their apparent porosities. The degradation of the scaffolds and the liberation of degradation products were evaluated in in vitro for different days under simulated physiological conditions. New microanalyses of mechanical behaviour of the materials: tensile and compression stresses, density, frequency analysis and optimisation with DSC were performed. While, evaluation of the surface luminance structure and the profile structure of the nanostructured PLA composite materials was done by SEM, in 3D printed form. The filter profile of cross-sectional view of the specimen was extracted and evaluated with Firestone curve of the Gaussian filter; checking the roughness and waviness profile of the structure. It was observed that the thermal properties of the composites were not affected by the manufacturing process. The microstructural analysis showed the effective incorporation of the ceramic filler in the polymer matrix as well as an acceptable PLA/cHA interaction. The degradation tests showed the presence of calcium and phosphorus in the studied medium, confirming their liberation from the composites during the incubation periods.
+Keywords: PLA/cHA; Biomaterial; Composites; Bone regeneration; Hybrid nanocomposite
+
+Ahmed E. Salama, Mohamed Hassan, Brahim Benmokrane, Emmanuel Ferrier,
+Modified strip model for punching-shear strength of FRP-reinforced concrete edge–column slab connections,
+Engineering Structures,
+Volume 216,
+2020,
+110769,
+ISSN 0141-0296,
+https://doi.org/10.1016/j.engstruct.2020.110769.
+(http://www.sciencedirect.com/science/article/pii/S0141029619352150)
+Abstract: The use of fiber-reinforced polymer (FRP) bars as internal reinforcement for concrete structures in aggressive environments has emerged as an innovative solution to eliminate corrosion problems. Glass FRP (GFRP) reinforcing bars have recently gained wide acceptance as a viable construction material for sustainable new constructions due to their costing less than other FRP types. This paper reports the test results for full-sized edge–column slab connections (ECS –connections) reinforced with sand coated GFRP bars. These connections were cast using normal-strength concrete (NSC) and high strength concrete (HSC). The effect of concrete strength (NSC and HSC) and moment-to-shear force ratio (M/V) (300 mm, 600 mm) on the performance of the tested connections were examined. In addition, a new mechanical model, called Modified Strip Model, is presented for punching-shear strength predictions of FRP reinforced concrete (RC) ECS –connections. The test results reveal that the use of HSC directly augmented the punching-shear strength and improved the load–deflection response of the tested connections, However, Increasing the M/V ratio produced significant shear stresses, thus decreasing the punching-shear strength for the NSC and HSC connections, respectively. The mechanical model presented herein takes into account all possible mechanisms of loads transfer in FRP-RC ECS-connections. Hence, a complete shear–moment (V-M) interaction diagram can be plotted to predict the punching strength of such connections. Moreover, the model revealed higher accuracy and narrower scatter for punching-shear strength predictions compared to other available equations in FRP design codes and guides. The EN 1992–1-1–05 punching-shear equation was also examined for FRP-RC ECS–connections and adapted to consider the tensile properties of the FRP bars instead of steel.
+Keywords: Modified strip model; Punching shear; Plasticity-based model; GFRP bars; Edge–column slab connections; Strength; Design codes
+
+Koliann Mam, Cyril Douthe, Robert Le Roy, François Consigny,
+Shape optimization of braced frames for tall timber buildings: Influence of semi-rigid connections on design and optimization process,
+Engineering Structures,
+Volume 216,
+2020,
+110692,
+ISSN 0141-0296,
+https://doi.org/10.1016/j.engstruct.2020.110692.
+(http://www.sciencedirect.com/science/article/pii/S0141029619332845)
+Abstract: With the recent development of timber as a viable structural material for high-rise structures, glulam braced frames have been recently introduced in lateral load-resisting systems of timber buildings. Based on a simple shape optimization problem of a braced frame, this paper explores one of the specificities of timber structures: the influence of semi-rigid connections on their overall structural behavior and design. Dowel-type connections are first studied to obtain a simplified relation between joint stiffness and axial load-carrying capacity. Then, the established local behavior law is introduced in the shape optimization process and design of a discrete braced frame subject to lateral drift constraint under wind load. The problem is solved by a COBYLA optimization method, combined with Optimality Criteria (OC) member sizing techniques. Solutions are then evaluated and compared with classical steel/concrete design. The semi-rigid behavior of connections finally leads to a significant increase in the volume of timber but also affects the optimal shape and topology of the X-braced frame compared with classical results.
+Keywords: Timber; High-rise building; Structural optimization; Semi-rigid connection; Optimality criteria
+
+JianBing Yu, Wei Zhang, ZhanZhan Tang, Xuan Guo, Stanislav Pospíšil,
+Seismic behavior of precast concrete beam-column joints with steel strand inserts under cyclic loading,
+Engineering Structures,
+Volume 216,
+2020,
+110766,
+ISSN 0141-0296,
+https://doi.org/10.1016/j.engstruct.2020.110766.
+(http://www.sciencedirect.com/science/article/pii/S0141029619333899)
+Abstract: This paper experimentally investigated the seismic behavior of 9 full-scale reinforced concrete (RC) joints—8 precast RC joints and 1 cast-in-place RC joint—under cyclic loading. The precast concrete (PC) joints were divided into 3 types: cast-in-place, precast beam cast-in-place column, and fully precast with assembly. With the presence additional reinforcement at the joint core and debonding of reinforcement in some joints, the PC joints differed with other types of joints. The experimental results, such as hysteretic behavior, energy dissipation capacity and stiffness degradation, were analyzed, which showed that the PC joints with steel strands anchored into the joint core zone could meet the seismic code requirements. Additionally, a finite elementanalysis of the new type of PC joint was performed numerically, and the predicted seismic performance was in very good agreement with the experimental results. Finally, a skeleton model of the PC joint was established through parameter analysis.
+Keywords: Beam-to-column joint; Finite element analysis; Precastconcrete; Seismic performance
+
+Dimitris Sotiriadis, Nikolaos Klimis, Basil Margaris, Anastasios Sextos,
+Analytical expressions relating free-field and foundation ground motions in buildings with basement, considering soil-structure interaction,
+Engineering Structures,
+Volume 216,
+2020,
+110757,
+ISSN 0141-0296,
+https://doi.org/10.1016/j.engstruct.2020.110757.
+(http://www.sciencedirect.com/science/article/pii/S0141029619344529)
+Abstract: The present study investigates the effect of soil-structure interaction (SSI) on foundation motion recorded at accelerometric stations at the lowest storey of buildings. Towards this, four sites of instrumented buildings, having foundation and free-field ground motion recordings available, are studied in the frequency domain. The significance of such instrumentation is highlighted, especially in terms of assessing the way foundation tends to filter high frequency components of free-field motions. The well-known kinematic and inertial interaction decoupling is implemented for the sites studied and is assessed on the basis of its capability to reproduce the empirical findings and measurements. Parametric analyses are performed for each site in order to develop analytical expressions relating intensity and frequency content measures between the two motions. The expressions derived are verified through comparison with recorded data. The analysis procedure is then extrapolated to sites with various soil conditions as defined by a generic ground classification as per Eurocode 8. The produced analytical expressions can be utilized, under the conditions studied herein, for correcting motions recorded at the basement level of buildings, in order to estimate the “original” free-field ground motions. The latter being “building-free”, are most appropriate for the development of new generation GMPEs that are not biased by the influence of foundation presence and structural oscillation during ground motion recordings.
+Keywords: Soil-structure interaction; Strong motion recordings; Embedded foundations; Numerical sub-structuring
+
+Yu-Yi Ye, De-Hua Zhu, Jun-Jie Zeng, Guan Lin, Wei-Qiang Wang,
+Rectangular double-tube concrete columns with an internal elliptical high-strength steel tube: Concept and behavior,
+Engineering Structures,
+Volume 216,
+2020,
+110742,
+ISSN 0141-0296,
+https://doi.org/10.1016/j.engstruct.2020.110742.
+(http://www.sciencedirect.com/science/article/pii/S0141029619356032)
+Abstract: This paper presents a novel form of rectangular fiber-reinforced polymer (FRP)-concrete-high strength steel (HSS) hybrid columns referred to as rectangular double-tube concrete columns (DTCCs). These columns consist of a rectangular FRP tube filled with concrete and an elliptical HSS tube as internal reinforcement. The inner elliptical steel tube encloses most of the concrete in the rectangular section and therefore most of the concrete in the section is effectively confined. The high susceptibility of the HSS elliptical tube to local buckling is expected to be suppressed by the confined concrete, leading to full utilization of the high strength of HSS. This paper demonstrates the excellent performance of the new columns due to the above beneficial interactions between different components in the column through an experimental study. In the experimental study, twelve rectangular DTCCs covering different FRP tube thicknesses and aspect ratios were tested under axial compression. Finally, an existing stress–strain model for FRP-confined concrete in rectangular columns is modified to be applicable to the concrete in the new column by accounting for the confinement effect from the inner elliptical HSS tube. It is found that the modified model provides more accurate predictions on the stress–strain curves of confined concrete in the rectangular DTCCs than the original model.
+Keywords: Fiber-reinforced polymer (FRP); Double-tube concrete column; Rectangular columns; Elliptical steel tube; High strength steel; Confinement; Stress–strain model
+
+Yongwei Wang, Zhen Zhou, Qin Xie, Linjie Huang,
+Theoretical analysis and experimental investigation of hysteretic performance of self-centering variable friction damper braces,
+Engineering Structures,
+Volume 217,
+2020,
+110779,
+ISSN 0141-0296,
+https://doi.org/10.1016/j.engstruct.2020.110779.
+(http://www.sciencedirect.com/science/article/pii/S0141029620300328)
+Abstract: Traditional buildings, even with normal self-centering energy dissipation (SCED) braces, might suffer from large deformations and high mode effects under an extremely strong earthquake, leading to a concentration of inter-story drift in upper floors. To satisfy the requirements of resilience, larger post-yield stiffness and higher energy dissipation, a novel brace with pretensioned basalt fiber-reinforced polymer (BFRP) tendons and variable friction dampers (VFDs) was developed, and this brace was termed the self-centering variable friction damper (SC-VFD) brace. The variable stiffness and sliding force of the VFD system were theoretically analyzed. This was followed by quasi-static experiments on two VFD and two SC-VFD braces with different parameters. The theoretical analysis and experimental results revealed the same tendencies, demonstrating the reliability and feasibility of SC-VFD braces. The hysteretic curve of the SC-VFD braces exhibited stable and normal flag-shape behavior before the second activation, while the hysteresis curve indicated a variable flag-shape behavior with second activation, variable friction force, and larger post-yield stiffness when the brace slid at slope section. Compared with the VFD brace, the SC-VFD brace had the same energy dissipation ability but less residual displacement and lower equivalent viscous damping ratio. More combinations of disc springs in series resulted in smaller axial forces and lowers post-yielding stiffness, thereby decreasing the energy dissipation capability.
+Keywords: Self-centering; Variable friction damper; Hysteretic performance; Energy dissipation; Basalt-fiber-reinforced polymer (BFRP)
+
+Yinli Chen, Daiki Sato, Kou Miyamoto, Jinhua She,
+Estimating the maximum response and maximum control force for high-rise base-isolated buildings with active structural control in along-wind direction,
+Engineering Structures,
+Volume 216,
+2020,
+110712,
+ISSN 0141-0296,
+https://doi.org/10.1016/j.engstruct.2020.110712.
+(http://www.sciencedirect.com/science/article/pii/S0141029620302704)
+Abstract: The combination of a passive base-isolated (PBI) structure and active structural control (ASC) has been employed in many buildings globally to improve control performance. Conventional approaches have utilized numerical simulations to calculate the maximum response and maximum control force, thereby complicating the design of control systems that satisfy design limitations. To solve this problem, this study extends the gust factor approach to buildings employing a combination of PBI structures and ASC. First, a method to theoretically estimate the mean control force and mean displacement response under along-wind force using only the static equilibrium, without requiring numerical simulations, is presented. Second, estimation methods of the gust factors for the displacement and control force are devised, and numerical verifications are used to validate the estimation methods. Using the estimation method for the mean control force, mean displacement response, and gust factors, the maximum control force and maximum displacement are estimated without using numerical simulations. Finally, a design method for determining the isolated period, isolated damping ratio, and feedback gain that satisfies the restrictions on the maximum control force and maximum displacement response is developed. Subsequently, the design method is validated using a numerical design example.
+Keywords: Wind-induced vibration; Active structural control; Base-isolated building; Gust factor approach; Linear quadratic regulator; Design method
+
+Baizan Tang, Xiaojun Li, Su Chen, Haiyang Zhuang, Hua-Peng Chen,
+Investigations of seismic response to an irregular-section subway station structure located in a soft clay site,
+Engineering Structures,
+Volume 217,
+2020,
+110799,
+ISSN 0141-0296,
+https://doi.org/10.1016/j.engstruct.2020.110799.
+(http://www.sciencedirect.com/science/article/pii/S0141029619339355)
+Abstract: In this study, shaking table tests were performed to investigate the dynamic interaction of a silty-clay soil with an irregular-section subway station. During the tests, a shape acceleration array (SAA) was used to measure the lateral deformation of the model soil, and a non-contact dynamic displacement testing method was applied to visualize and digitalize the seismic damage process of the station structure. Typical test results, including the dynamic earth pressure, seismic settlement, deformation, and acceleration of different levels of the structure, were interpreted. The results indicated that the movement of the subway station was more controlled by the surrounding silty-clay soil in terms of phase and amplitude. SAA can effectively measure the soil deformation, and the relationship between the relative lateral displacement and soil depth can be well fitted in a cosine function, especially when subjected to strong earthquakes. Seismic settlement is significantly linked to Arias intensity, and the subway station experienced significant uneven settlement, resulting in soil-structure separation in the vertical direction. The multi-story irregular-section subway station deforms in a shear mode. The maximum inter-story drift ratio was approximately 1/171. The components in the lower layers of the shallow-buried subway station structure, particularly in the central columns, underwent cumulative damage. Hence, more robust forms of structural members and the ductility of central columns should be carefully considered in the seismic design of subway station structures.
+Keywords: Irregular-section subway station; Silty clay; Shaking table test; Deformation characteristics; Seismic damage
+
+Zhang Hongmei, Quan Liumeng, Lu Xilin, Xu Jiaqi,
+Modified flag-shaped model for self-centering system and its equivalent linearization and structural optimization for stochastic excitation,
+Engineering Structures,
+Volume 215,
+2020,
+110420,
+ISSN 0141-0296,
+https://doi.org/10.1016/j.engstruct.2020.110420.
+(http://www.sciencedirect.com/science/article/pii/S0141029619301518)
+Abstract: The analysis and design of self-centering structural systems have attracted substantial attention from researchers for the seismic design of structures. The flag-shaped hysteretic model has been widely used in the design and structural response analysis of self-centering devices. In this research, a modified flag-shaped (MFS) model is proposed to describe the hysteretic characteristics of self-centering energy dissipation (SCED) braces, which are commonly used in self-centering structures. The MFS model comprises three parts: a linear elastic part, a bilinear elastic part, and an elasto-plastic part with a slip zone. The effectiveness of the MFS model is validated based on the results of the quasi-static and hybrid simulation tests available in the literature. Equivalent linearization is carried out on the MFS model for stochastic earthquakes, and closed-form solutions are obtained for the linearized parameters. A one-degree-of-freedom braced system is used to verify the equivalent linearization of the MFS model in comparison with Monte Carlo simulation results. Finally, an SCED-braced five-story frame structure is optimized by minimizing the maximum ductility demand for the SCED braces using the equivalent linearization of the MFS model. The optimized design by the MFS model is observed to exhibit uniform ductility demands along the height. This can be considered as the ideal optimal solution. The responses of the multi-degree-of-freedom structure also demonstrate the effectiveness of the proposed MFS model and its equivalent linearization.
+Keywords: Self-centering structure; SCED brace; Modified flag-shaped model; Stochastic equivalent linearization; Structural optimization; Monte Carlo simulation
+
+Zhenhua Zhang, Kaiming Bi, Hong Hao, Piao Sheng, Liang Feng, Dan Xiao,
+Development of a novel deformation-amplified shape memory alloy-friction damper for mitigating seismic responses of RC frame buildings,
+Engineering Structures,
+Volume 216,
+2020,
+110751,
+ISSN 0141-0296,
+https://doi.org/10.1016/j.engstruct.2020.110751.
+(http://www.sciencedirect.com/science/article/pii/S0141029619333607)
+Abstract: Super-elastic shape memory alloys (SMAs) are widely used to mitigate seismic responses of engineering structures because of their self-centring and energy dissipation characteristics. However, the energy dissipation capacity of SMAs is limited when compared to other displacement-dependent dampers. In this paper, a novel deformation-amplified SMA-friction damper (DASMAFD) is proposed to control the seismic responses of reinforced concrete (RC) frame buildings. In this damper, a lever system is employed to amplify the deformation that is transferred from the structure to the SMA wires, and a friction adjusting system is adopted to adjust the friction force in the damper. Hence, the proposed novel system is advantageous due to the excellent self-centring capacity of SMAs and the high damping capacity of the friction adjusting system. To demonstrate the effectiveness of the proposed system, the design and mechanism of the device are presented in detail, the self-centring and damping capacity of the damper are investigated through experimental studies, and the influences of deformation amplification ratio (DAR) and friction ratio (FR) on the self-centring and hysteresis characteristics of the damper are systematically examined. The damper is then applied to control the seismic responses of a 10-storey RC frame building, and numerical simulations are performed to examine the control effectiveness of the proposed system. The calculated responses of the building controlled by a conventional SMA damper are compared with those of a SMA-friction damper. Furthermore, parametric studies are performed to examine the effects of key parameters of the damper, namely DAR and FR, on the seismic responses of the building. Numerical results indicate that DASMAFD exhibits the most evident control effectiveness when compared to other dampers.
+Keywords: DASMAFD; Deformation amplification; Self-centring; RC frame building; Seismic responses; Parametric study
+
+C. Medina, G.M. Álamo, J.J. Aznárez, L.A. Padrón, O. Maeso,
+Influence of soil non-homogeneity on the base shear force of piled structures subjected to harmonic seismic waves,
+Engineering Structures,
+Volume 215,
+2020,
+110658,
+ISSN 0141-0296,
+https://doi.org/10.1016/j.engstruct.2020.110658.
+(http://www.sciencedirect.com/science/article/pii/S0141029619328743)
+Abstract: This paper aims at analyzing the effects of soil non-homogeneity on the dynamic behavior of piled structures. In order to fulfil this objective a procedure based on a substructuring model, which includes soil-structure interaction effects, is used to compute the dynamic response of slender and non-slender structures supported on several pile group configurations embedded in four different linear-elastic Gibson soil profiles. A numerical model based on the integral formulation of the elastodynamic problem and Green’s functions for the layered half space is used for the purpose of determining the foundation dynamic response in terms of impedances and kinematic interaction factors. The results obtained in terms of structural base shear force for each one of the variable-with-depth soil profiles are compared to those computed for an equivalent homogeneous soil. A significant influence of the soil profile on the structural harmonic response to seismic waves is observed in terms of maximum shear force at the base of the structure. The homogeneous assumption when modelling depth-varying soil profiles yields, in many cases, non-conservative results when predicting the structural dynamic behavior.
+Keywords: Pile foundations; Layered soil; Seismic response; Soil-structure interaction; Substructure model
+
+Filippo Masi, Ioannis Stefanou, Victor Maffi-Berthier, Paolo Vannucci,
+A Discrete Element Method based-approach for arched masonry structures under blast loads,
+Engineering Structures,
+Volume 216,
+2020,
+110721,
+ISSN 0141-0296,
+https://doi.org/10.1016/j.engstruct.2020.110721.
+(http://www.sciencedirect.com/science/article/pii/S0141029619328585)
+Abstract: Masonry structures are often characterized by complex, non-planar geometries. This is also the case for historical and monumental structures. Here we investigate the dynamic behaviour of non-standard, curvilinear masonry geometries, such as vaults, subjected to blast loading. We use the Discrete Element Method (DEM) for modelling the dynamic structural response to explosions. The approach allows considering the detailed mechanical and geometrical characteristics of masonry, as well as the inherent coupling between the in- and out-of-plane motion. The proposed modelling approach is validated with existing experimental tests in the case of planar masonry geometries, walls. The DEM model well captures the dynamic response of the system and the form of failure within the masonry structure. Then the response of a curved masonry structure subjected to blast loading is investigated. The influence of various micro-mechanical parameters, such as the dilatancy angle, the tensile strength and the cohesion of the masonry joints on the overall dynamic structural response of the system is explored. The effect of the size of the building blocks is also studied. Finally, the common DEM assumption of rigid blocks is assessed through detailed comparisons with simulations involving deformable blocks.
+Keywords: Masonry; Discrete Element Method (DEM); Blast loads; Dilatancy; Scale effect; Curved structures
