@@ -3,6 +3,8 @@ config.json
 niso_training_prog.py
 test_elsapy.py
 dump.json
+.DS_Store
+.gitignore
 *.pyc
 *.log
 /data
