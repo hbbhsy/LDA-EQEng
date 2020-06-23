@@ -3,6 +3,7 @@ config.json
 niso_training_prog.py
 test_elsapy.py
 dump.json
+/.ipynb_checkpoints
 .DS_Store
 .DS_Store?
 *.pyc
